@@ -7,7 +7,7 @@
 <!-- default file list end -->
 # How to bind a pivot to an OLAP cube in an MVC solution
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/t433378)**
+**[[Run Online]](https://codecentral.devexpress.com/t433378/)**
 <!-- run online end -->
 
 
