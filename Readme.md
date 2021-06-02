@@ -1,4 +1,4 @@
-<!-- default file list -->
+
 *Files to look at*:
 
 * [HomeController.cs](./CS/MvcApplication1/Controllers/HomeController.cs)
@@ -10,9 +10,8 @@
 **[[Run Online]](https://codecentral.devexpress.com/t433378/)**
 <!-- run online end -->
 
+This example demonstrates how to bind an MVCxPivotGrid component to an OLAP source using the [PivotGridExtension.BindToOLAP](https://docs.devexpress.com/AspNetMvc/DevExpress.Web.Mvc.PivotGridExtension.BindToOLAP(System.String)) method. 
 
-<p>This example demonstrates how to bind an MVCxPivotGrid component to an OLAP source using the <a href="https://documentation.devexpress.com/#AspNet/DevExpressWebMvcPivotGridExtension_BindToOLAPtopic">PivotGridExtension.BindToOLAP</a> method. </p>
 
-<br/>
 
 
