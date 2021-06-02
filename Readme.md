@@ -14,9 +14,10 @@ This example demonstrates how to bind an MVCxPivotGrid component to an OLAP sour
 
 ## Documentation
 
+[Getting Started > Bind a Pivot Grid to an OLAP Data Source](https://docs.devexpress.com/AspNetMvc/115624/components/pivot-grid/getting-started/lesson-2-bind-a-pivot-grid-to-an-olap-data-source)
 
 ## More Examples 
-
+[How to connect ASPxPivotGrid to an OLAP datasource](https://github.com/DevExpress-Examples/how-to-connect-aspxpivotgrid-to-an-olap-datasource-t344653)
 
 
 
