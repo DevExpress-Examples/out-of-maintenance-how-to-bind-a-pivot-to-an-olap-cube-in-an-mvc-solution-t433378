@@ -16,24 +16,24 @@
     {
         field.Area = PivotArea.RowArea;
         field.AreaIndex = 0;
-        field.FieldName = "[Ship Date].[Calendar Year].[Calendar Year]";
+        field.DataBinding = new DevExpress.Web.ASPxPivotGrid.DataSourceColumnBinding("[Ship Date].[Calendar Year].[Calendar Year]");
     });
     settings.Fields.Add(field =>
     {
         field.Area = PivotArea.ColumnArea;
         field.AreaIndex = 0;
-        field.FieldName = "[Customer].[City].[City]";
+        field.DataBinding = new DevExpress.Web.ASPxPivotGrid.DataSourceColumnBinding("[Customer].[City].[City]");
     });
     settings.Fields.Add(field =>
     {
         field.Area = PivotArea.FilterArea;
         field.AreaIndex = 0;
-        field.FieldName = "[Sales Territory].[Sales Territory].[Country]";
+        field.DataBinding = new DevExpress.Web.ASPxPivotGrid.DataSourceColumnBinding("[Sales Territory].[Sales Territory].[Country]");
     });
     settings.Fields.Add(field =>
     {
         field.Area = PivotArea.DataArea;
         field.AreaIndex = 1;
-        field.FieldName = "[Measures].[Order Count]";
+        field.DataBinding = new DevExpress.Web.ASPxPivotGrid.DataSourceColumnBinding("[Measures].[Order Count]");
     });
 }).BindToOLAP(PivotGridOLAPDemosHelper.OLAPConnectionString).GetHtml()
